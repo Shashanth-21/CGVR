@@ -1,8 +1,7 @@
-#include<GLUT/glut.h>
+//#include<GLUT/glut.h>
 
 #include<stdio.h>
-
- 
+#include<gl/glut.h>
 
 typedef float point[3];
 
